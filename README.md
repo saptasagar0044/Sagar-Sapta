@@ -34,19 +34,19 @@
 
 ## 🛠️ Skills & Tools
 
-- 💻 **Programing** : Python , C++(Basic)
-- 📊 **Data Wrangling & Analysis** : Pandas, NumPy, Ms Excel, EDA, Data Cleaning
-- 📊 **Visualization & BI** : Matplotlib, Seaborn, Power BI, Tableau
-- 🗄️ **Databases** : SQL, MySQL, SQLite, Joins, Window Functions
-- 🧰 **Tools**: Git, GitHub, Vercel, VS Code,  Jupyter Notebook
+- 💻 **Programing** :  Python , C++(Basic)
+- 📊 **Data Wrangling & Analysis** :  Pandas, NumPy, Ms Excel, EDA, Data Cleaning
+- 📊 **Visualization & BI** :  Matplotlib, Seaborn, Power BI, Tableau
+- 🗄️ **Databases** :  SQL, MySQL, SQLite, Joins, Window Functions
+- 🧰 **Tools**:  Git, GitHub, Vercel, VS Code,  Jupyter Notebook, 10+ Ai With Working
 
 ---
 
 ## 📌 Projects
 
-- 🛒 **Python Shopping System** – In-memory data structures
-- 🏋️‍♂️ **Workout App** – React Native (Expo) Using Google Antigravity 
-- 📊 **Retail Sales Analysis** – Walmart Dataset
+- 🛒 **Python Shopping System**  -  In-memory data structures
+- 🏋️‍♂️ **Workout App**  –  React Native (Expo) Using Google Antigravity 
+- 📊 **Retail Sales Analysis**  –  Walmart Dataset
 
 ---
 
@@ -62,7 +62,7 @@
 
 ## 📊 GitHub Stats
 
-![Sagar's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saptasagar0044&show_icons=true&theme=radical)
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=saptasagar0044&show_icons=true&theme=radical)
 
 ---
 
